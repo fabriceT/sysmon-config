@@ -933,6 +933,7 @@
 			<QueryName condition="end with">.mozilla.com</QueryName> <!--Mozilla-->
 			<QueryName condition="end with">.mozilla.net</QueryName> <!--Mozilla-->
 			<QueryName condition="end with">.mozilla.org</QueryName> <!--Mozilla-->
+			<QueryName condition="is">profile.accounts.firefox.com</QueryName> <!--Mozilla-->
 			<QueryName condition="end with">.spotify.com</QueryName> <!--Spotify-->
 			<QueryName condition="end with">.spotify.map.fastly.net</QueryName> <!--Spotify-->
 			<QueryName condition="end with">.wbx2.com</QueryName> <!--Webex-->
